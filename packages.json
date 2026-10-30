@@ -1,10 +1,10 @@
 [
     {
         "package": "tlShiny",
-        "url": "https://github.com/teachinglab/tlShiny"
+        "url": "https://github.com/TeachingLabHQ/tlShiny"
     },
     {
         "package": "TeachingLab",
-        "url": "https://github.com/duncangates/TeachingLab"
+        "url": "https://github.com/dungates/TeachingLab"
     }
 ]
